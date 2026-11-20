@@ -1,4 +1,10 @@
 
+<p align="center">
+  <img src="banner.png" width="100%" alt="CODE WITH VIJAY">
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Vijay Krishna</h1>
 
 <h3 align="center">
@@ -44,3 +50,7 @@ Python Developer | Computer Science Student | Tech Enthusiast
 ---
 
 <h3 align="center">Thanks for visiting my profile! ❤️</h3>
+
+
+
+
